@@ -31,7 +31,7 @@ const onConnection = (socket) => {
 
 io.on('connection', onConnection)
 
-const PORT = process.env.PORT || 8888
+const PORT = process.env.PORT || 3000
 server.listen(PORT, () => {
     console.log(`Server is ready. Port: ${PORT}`)
 })
