@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "messageId": "1",
+      "userId": "1",
+      "senderName": "Mister",
+      "messageText": "What are you doing here?",
+      "createdAt": "2022-03-14"
+    },
+    {
+      "messageId": "2",
+      "userId": "2",
+      "senderName": "Twister",
+      "messageText": "Go back to work!",
+      "createdAt": "2022-03-15"
+    }
+  ]
+}
